@@ -1,0 +1,5 @@
+baseurl = '<PLEX URL:PORT>'
+exempt = ['<EXCEMP1>','<EXEMPT2>']
+token = '<PLEX TOKEN>'
+esurl = '<ELASTCSEARCH URL>'
+esindex = "<ELASTICSEARCH INDEX>"

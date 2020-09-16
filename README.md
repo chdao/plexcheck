@@ -1,1 +1,1 @@
-# plexcheck
+This is a script that logs data about plex users, streams and transcodes.
